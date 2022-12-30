@@ -1,6 +1,6 @@
 # DataCamp
 
-## Guided Projects using SQL
+## Projects using SQL
 
 ### 1. Analyze International Debt Statistics
 
